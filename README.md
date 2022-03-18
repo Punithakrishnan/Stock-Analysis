@@ -5,10 +5,15 @@ This Project is to help which is the best investment for Steve's Parents. Invest
 ## Result
 In 2018, only ENPH and RUN two stocks had positive yearly Return as well as large Total Daily Volume. Both of them was outperformance than others green stocks.
 ------
-https://github.com/Punithakrishnan/Stock-Analysis/blob/b6f16495f16a39de45d0eb69fb4e916f9a6c78c3/Resources/Screen%20Shot%202022-03-16%20at%201.19.11%20AM.png
+<img width="250" alt="Screen Shot 2022-03-16 at 1 19 11 AM" src="https://user-images.githubusercontent.com/98849217/159086231-f19744a3-19e1-429a-8a11-8da2bc291bfd.png">
 -----
 In 2017, all of stocks had positive Return except TERP (-7.2%). "DQ" made best yearly return with 199.4% but with lowest total Daily Volume (35,796,200) in 2017.
 ---
-https://github.com/Punithakrishnan/Stock-Analysis/blob/462460bab2d11edbff49f20cc755a43859888989/Resources/Screen%20Shot%202022-03-16%20at%201.23.04%20AM.png
----
 
+<img width="248" alt="Screen Shot 2022-03-16 at 1 23 04 AM" src="https://user-images.githubusercontent.com/98849217/159086167-b93d93d6-ccf9-4eb0-86a1-4756d72e4083.png"> 
+-----
+1 Main Loop for all data and assigned tickerIndex for 12 stocks respectively.
+2 Nested loop in the main loop, executed stocks original data and retrieve ticker name, startingPrices and endingPrices, and save information to each related tickerIndex.
+3 nested loop in 2nd loop, in order to get volume information for each Index.
+4 new loop for putting all saved output information into an analysis sheet.
+Refactoring the code is very efficent in terms of time.
