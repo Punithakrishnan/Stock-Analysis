@@ -10,3 +10,5 @@ https://github.com/Punithakrishnan/Stock-Analysis/blob/b6f16495f16a39de45d0eb69f
 In 2017, all of stocks had positive Return except TERP (-7.2%). "DQ" made best yearly return with 199.4% but with lowest total Daily Volume (35,796,200) in 2017.
 ---
 https://github.com/Punithakrishnan/Stock-Analysis/blob/462460bab2d11edbff49f20cc755a43859888989/Resources/Screen%20Shot%202022-03-16%20at%201.23.04%20AM.png
+---
+
